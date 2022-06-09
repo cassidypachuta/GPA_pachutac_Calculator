@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GPA_pachutac_Calculator</string>
+    <string name="msg_app">GPA CALCULATOR</string>
+    <string name="g1">GRADE 1:</string>
+    <string name="g2">GRADE 2:</string>
+    <string name="g3">GRADE 3:</string>
+    <string name="g4">GRADE 4:</string>
+    <string name="g5">GRADE 5:</string>
+    <string name="btn">COMPUTE GPA</string>
+    <string name="hint">0-100</string>
+    <string name="empty">No empty fields accepted</string>
+    <string name="btnclear">CLEAR</string>
+
+
+</resources>
